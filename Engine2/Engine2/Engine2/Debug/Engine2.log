@@ -1,0 +1,34 @@
+﻿生成启动时间为 2014/6/11 星期三 11:39:49。
+     1>项目“E:\文档\毕业设计\c++project\Engine2\Engine2\Engine2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Engine2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\Program Files\LabPacks\Visual C++\Include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Engine2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Engine2View.cpp
+         Engine2View.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\文档\毕业设计\c++project\Engine2\Debug\Engine2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\LabPacks\Visual C++\Lib" /MANIFEST /ManifestFile:"Debug\Engine2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\文档\毕业设计\c++project\Engine2\Debug\Engine2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\文档\毕业设计\c++project\Engine2\Debug\Engine2.lib" /MACHINE:X86 Debug\Engine2.res
+         Debug\Engine2.exe.embed.manifest.res
+         Debug\Engine2.obj
+         Debug\Engine2Doc.obj
+         Debug\Engine2View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Engine2.exe.embed.manifest" /manifest Debug\Engine2.exe.intermediate.manifest "D:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Engine2.vcxproj -> E:\文档\毕业设计\c++project\Engine2\Debug\Engine2.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Engine2.unsuccessfulbuild”。
+         正在对“Debug\Engine2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\文档\毕业设计\c++project\Engine2\Engine2\Engine2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.68
